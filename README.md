@@ -11,4 +11,4 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
  
 • Explore and categorize content based on specific criteria and keywords.
 # Dataset
-• Dataset link : Movies Dataset
+• Dataset link : ![netflix]("C:\Users\Sneha bhaskar\Downloads\netflix_titles.csv")
